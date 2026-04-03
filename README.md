@@ -8,6 +8,12 @@ Railroads Online has been abandoned, its last update was December of 2024, last 
 
 ---
 
+**Information:**
+- RROML is coded in C++ & C#
+- Mods are coded in C#
+
+---
+
 **Licensing:**
 
 RROML is licensed under the LGPL-2.1 license.
