@@ -14,6 +14,15 @@ Railroads Online has ceased development, its last update was December of 2024, l
 
 ---
 
+**Installation:**
+To install it, you have two options, manual everything, unzip the latest RROML release, put the contents inside the Railroads Online root directory, then just put mods into the Mods folder.
+
+OR
+
+You can use [Moxi](https://github.com/KerbalMissile/Moxi), but custom mod manager, to install the mod loader automatically when you install a mod, as well as automatically installing mods, resolving dependencies, updates, etc.
+
+---
+
 **Licensing:**
 
 RROML is licensed under the LGPL-2.1 license.
