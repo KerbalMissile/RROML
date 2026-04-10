@@ -23,6 +23,12 @@ You can use [Moxi](https://github.com/KerbalMissile/Moxi), but custom mod manage
 
 ---
 
+Links:
+
+[RRO Modding Discord](https://discord.gg/4UZ3CQca4R)
+
+---
+
 **Licensing:**
 
 RROML is licensed under the LGPL-2.1 license.
