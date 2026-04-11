@@ -58,5 +58,9 @@ echo Building BackgroundAudioMod.dll...
 "%CSC%" /nologo /target:library /out:"%OUT%\BackgroundAudioMod.dll" /reference:"%OUT%\RROML.Abstractions.dll" /reference:"%WEBEXT%" "%ROOT%\src\BackgroundAudioMod\*.cs"
 if errorlevel 1 exit /b 1
 
+echo Building SlightlyBetterVisuals.dll...
+"%CSC%" /nologo /target:library /out:"%OUT%\SlightlyBetterVisuals.dll" /reference:"%OUT%\RROML.Abstractions.dll" "%ROOT%\src\SlightlyBetterVisuals\*.cs"
+if errorlevel 1 exit /b 1
+
 echo Managed build finished.
 exit /b 0

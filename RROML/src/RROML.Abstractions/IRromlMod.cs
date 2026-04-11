@@ -15,8 +15,10 @@ namespace RROML.Abstractions
         string GameRootPath { get; }
         string LoaderPath { get; }
         string ModsPath { get; }
+        string UserGameConfigRootPath { get; }
         IModLogger Logger { get; }
         string GetConfigPath(string fileName);
+        string GetUserGameConfigPath(string fileName);
     }
 
     public interface IModLogger

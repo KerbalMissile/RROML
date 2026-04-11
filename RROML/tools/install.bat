@@ -66,6 +66,9 @@ copy /Y "%ROOT%\src\RealRailroading\mod.json" "%MODS%\RealRailroading\mod.json" 
 if not exist "%MODS%\BackgroundAudioMod" mkdir "%MODS%\BackgroundAudioMod"
 copy /Y "%BUILD%\BackgroundAudioMod.dll" "%MODS%\BackgroundAudioMod\BackgroundAudioMod.dll" >nul
 copy /Y "%ROOT%\src\BackgroundAudioMod\mod.json" "%MODS%\BackgroundAudioMod\mod.json" >nul
+if not exist "%MODS%\SlightlyBetterVisuals" mkdir "%MODS%\SlightlyBetterVisuals"
+copy /Y "%BUILD%\SlightlyBetterVisuals.dll" "%MODS%\SlightlyBetterVisuals\SlightlyBetterVisuals.dll" >nul
+copy /Y "%ROOT%\src\SlightlyBetterVisuals\mod.json" "%MODS%\SlightlyBetterVisuals\mod.json" >nul
 
 echo Install finished.
 echo Files placed in:
@@ -73,5 +76,3 @@ echo   "%LOADER%"
 echo   "%MODS%"
 echo   "%PROXY_TARGET%"
 exit /b 0
-
-
