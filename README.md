@@ -22,7 +22,7 @@ Manual Installation:
 2. Unzip it
 3. Take the stuff inside and put it into your Railroads Online folder
 4. Create a folder by the name "Mods"
-5. To install mods, unzip the mod .zip and just put the folder inside the unzipped folder into the Mods folder
+5. To install mods, unzip the mod .zip and just put the "Mods" folder inside the unzipped folder into your Railroads Online folder
 
 Automated Installation:
 
