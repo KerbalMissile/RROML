@@ -16,23 +16,14 @@ Railroads Online has ceased development, its last update was December of 2024, l
 
 **Installation:**
 
-Manual Installation:
-
-1. Download the latest RROML zip file fromthe releases section.
-2. Unzip it
-3. Take the stuff inside and put it into your Railroads Online folder
-4. Create a folder by the name "Mods"
-5. To install mods, unzip the mod .zip and just put the "Mods" folder inside the unzipped folder into your Railroads Online folder
-
-Automated Installation:
-
-You can use [Moxi](https://github.com/KerbalMissile/Moxi), but custom mod manager, to install the mod loader automatically when you install a mod, as well as automatically installing mods, resolving dependencies, updates, etc.
+Please see the [RRO Modding Wiki for installation](https://github.com/KerbalMissile/Railroads-Online-Modding-Wiki/wiki)
 
 ---
 
 Links:
 
 [RRO Modding Discord](https://discord.gg/4UZ3CQca4R)
+[RRO Modding Wiki](https://github.com/KerbalMissile/Railroads-Online-Modding-Wiki/wiki)
 
 ---
 
