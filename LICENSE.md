@@ -1,6 +1,6 @@
 # Kodo Public License v1.1
 
-**KODO PUBLIC LICENSE** **Version 1.1** **Copyright (c) [YEAR] [USERNAME]**
+**KODO PUBLIC LICENSE** **Version 1.1** **Copyright (c) 2026 KerbalMissile**
 
 ---
 
