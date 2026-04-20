@@ -30,4 +30,4 @@ Links:
 
 **Licensing:**
 
-RROML is licensed under the LGPL-2.1 license.
+RROML is licensed under the [KPL-v1.1 license](LICENSE.md).
