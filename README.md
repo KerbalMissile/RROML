@@ -22,6 +22,8 @@ Please see the [RRO Modding Wiki for installation](https://github.com/KerbalMiss
 
 Links:
 
+Please look at the wiki first before asking for help in the Discord.
+
 [RRO Modding Discord](https://discord.gg/4UZ3CQca4R)
 
 [RRO Modding Wiki](https://github.com/KerbalMissile/Railroads-Online-Modding-Wiki/wiki)
