@@ -4,14 +4,14 @@
 
 **Short Description:**
 
-RROML is a mod loader for the game Railroads Online! it makes it so that the community, can make mods for the game to imrpove QoL, add new things, and much more!
+RROML is a mod loader for the game Railroads Online! it makes it so that the community can make mods for the game to improve QoL, add new things, and more!
 
 ---
 
 **Information:**
 - RROML is coded in C++ & C#
-- Mods are coded in C#
-- Compiling uses Batchfiles (.bat)
+- Mods are coded in C# (Possibility of using another coding language in the future)
+- Compiling uses Batchfiles (.bat), or any other means of compilation of C# code
 
 ---
 
