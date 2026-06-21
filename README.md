@@ -39,6 +39,19 @@ Please see the [RRO Modding Wiki for installation](https://github.com/KerbalMiss
 
 ---
 
+**Buildings From Source:**
+
+This is for if you want to contribute code to RROM< but need to test first.
+
+Steps:
+1. Make your changes
+2. Open up a terminal at the path to the RROML folder, could be something like D:\RROML
+3. From there edit this command to point to your Railroads Online folder: `.\tools\install.bat "D:\SteamLibrary\steamapps\common\Railroads Online"`
+4. Now all you have to do is run your edited command from the RROML folder
+5. Then you are done and can now test
+
+---
+
 Links:
 
 Please look at the wiki first before asking for help in the Discord.
