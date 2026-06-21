@@ -28,6 +28,7 @@ Please see the [RRO Modding Wiki for installation](https://github.com/KerbalMiss
 | Phase: 0 | Basic Game Detection + Mod Loader Boot | Completed |
 | Phase: 1 | Code Mod Inject | Completed With Possible Updates and Fixes |
 | Phase: 1 | .pak Inspection | Completed via UEBridge mod |
+| Phase: 1 | .exe Inspection | In Development For The UEBridge mod |
 | Phase: 2 | .pak Custom Models & Sounds | In Development |
 | Phase: 2 | Calling Textures From .pak's | Planned + Partially In Development |
 | Phase: 3 | .pak Custom Textures | Planned |
