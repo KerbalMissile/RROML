@@ -26,7 +26,7 @@ Please see the [RRO Modding Wiki for installation](https://github.com/KerbalMiss
 | Phase | Plan | Completion Status|
 |------|--------|--------|
 | Phase: 0 | Basic Game Detection + Mod Loader Boot | Completed |
-| Phase: 1 | Code Mod Inject | Completed With Possible Updates and Fixes |
+| Phase: 1 | Code Inject | Completed With Possible Updates and Fixes |
 | Phase: 1 | .pak Inspection | Completed via UEBridge mod |
 | Phase: 1 | .exe Inspection | Mostly Completed via UEBridge mod |
 | Phase: 2 | .pak Custom Models & Sounds | In Development |
