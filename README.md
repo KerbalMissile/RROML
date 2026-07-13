@@ -2,6 +2,17 @@
 
 ---
 
+**Legend:**
+
+This is what all shorthands mean or stand for here. They will be used throughout every mention of RROML and RRO modding regardless of repository or community.
+
+RROML -- Railroads Online Mod Loader
+RO / RRO -- Railroads Online
+QoL -- Quality of Life
+ROMC / RROMC -- Railroads Online Modding Community
+
+---
+
 **Short Description:**
 
 RROML is a mod loader for the game Railroads Online! it makes it so that the community can make mods for the game to improve QoL, add new things, and more!
