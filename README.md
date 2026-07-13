@@ -7,8 +7,11 @@
 This is what all shorthands mean or stand for here. They will be used throughout every mention of RROML and RRO modding regardless of repository or community.
 
 RROML -- Railroads Online Mod Loader
+
 RO / RRO -- Railroads Online
+
 QoL -- Quality of Life
+
 ROMC / RROMC -- Railroads Online Modding Community
 
 ---
