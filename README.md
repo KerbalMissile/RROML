@@ -18,7 +18,7 @@ ROMC / RROMC -- Railroads Online Modding Community
 
 **Short Description:**
 
-RROML is a mod loader for the game Railroads Online! it makes it so that the community can make mods for the game to improve QoL, add new things, and more!
+RROML is a mod loader for the game Railroads Online! It makes it so that the community can make mods for the game to improve QoL, add new things, and much more!
 
 ---
 
