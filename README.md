@@ -55,7 +55,7 @@ Please see the [RRO Modding Wiki for installation](https://github.com/KerbalMiss
 
 **Buildings From Source:**
 
-This is for if you want to contribute code to RROM< but need to test first.
+This is for if you want to contribute code to RROML but need to test first.
 
 Steps:
 1. Fork the repo and clone your fork using `git clone https://github.com/USERNAME/RROML.git`, note this command only clones it locally and doesn't fork it for you.
