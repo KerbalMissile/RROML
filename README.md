@@ -14,6 +14,10 @@ QoL -- Quality of Life
 
 ROMC / RROMC -- Railroads Online Modding Community
 
+Repo -- Repository
+
+PR(s) -- Pull Request(s)
+
 ---
 
 **Short Description:**
