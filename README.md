@@ -63,11 +63,11 @@ This is for if you want to contribute code to RROML but need to test first.
 
 Steps:
 1. Fork the repo and clone your fork using `git clone https://github.com/USERNAME/RROML.git`, note this command only clones it locally and doesn't fork it for you.
-2. Make your changes
+2. Make your changes to your local code.
 3. Open up a terminal at the path to the RROML folder, could be something like D:\RROML
 4. From there edit this command to point to your Railroads Online folder: `.\tools\install.bat "D:\SteamLibrary\steamapps\common\Railroads Online"`
-5. Now all you have to do is run your edited command from the RROML folder
-6. Then you are done and can now test
+5. Now all you have to do is run your edited command from the RROML folder.
+6. Then you are done and can now test.
 
 ---
 
