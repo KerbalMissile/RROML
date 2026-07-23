@@ -2,6 +2,11 @@
 
 ---
 
+> [!CAUTION]
+> RROML and mods may cause unexpected bugs or issues in multiplayer. Feel free to report said issues in the RROML GitHub repository Issues section. Please be sure to back up your saves before modding in multiplayer.
+
+---
+
 **Legend:**
 
 This is what all shorthands mean or stand for here. They will be used throughout every mention of RROML and RRO modding regardless of repository or community.
