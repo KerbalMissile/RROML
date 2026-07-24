@@ -44,6 +44,12 @@ Please see the [RRO Modding Wiki for installation](https://github.com/KerbalMiss
 
 ---
 
+My (KerbalMissile)'s mods can be found here:
+
+https://github.com/KerbalMissile/RRO-Mods-KM
+
+---
+
 **Roadmap:**
 
 | Phase | Plan | Completion Status|
