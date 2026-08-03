@@ -5,9 +5,6 @@
 > [!CAUTION]
 > RROML and mods may cause unexpected bugs or issues in multiplayer. Feel free to report said issues in the RROML GitHub repository Issues section. Please be sure to back up your saves before modding in multiplayer.
 
-> [!NOTE]
-> Development is paused and will resume August 2nd.
-
 ---
 
 **Legend:**
